@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://adil-void.vercel.app)  
   
-- 📝 I regularly write articles on [Low](https://low-pi.vercel.app)  [Medium](https://medium.com/@mdadilsharif)
+- 📝 I write articles on [Low](https://low-pi.vercel.app)  [Medium](https://medium.com/@mdadilsharif)
   
 - 💬 Ask me about **React, UI/UX, Video Games**  
   
